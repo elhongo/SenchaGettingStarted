@@ -1,2 +1,2 @@
-# SenchaHelloWorld
+# SenchaGettingStarted
 Simple Sencha Application 
