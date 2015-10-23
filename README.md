@@ -1,0 +1,2 @@
+# SenchaHelloWorld
+Simple Sencha Application 
