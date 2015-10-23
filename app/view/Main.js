@@ -23,7 +23,7 @@ Ext.define('GS.view.Main', {
                 },
 
                 html: [
-                    "Changing things <b> arround!!"
+                    "<h1>Testing APP</h2> <br> This a testing branch of the App"
                 ].join("")
             },
             {
